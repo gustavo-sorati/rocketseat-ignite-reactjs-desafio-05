@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".babelrc": true,
+    ".eslintrc": true,
+    "jest.config.js": true,
+    ".gitignore": true,
+    ".eslintrc.json": true,
+    "next-env.d.ts": true,
+    "prettier.config.js": true,
+    "yarn.lock": true,
+    ".editorconfig": true,
+  }
+}
